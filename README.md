@@ -2,7 +2,8 @@
 Coffee Shop App with Flutter
 
 ## Final Result
-![App UI](/Coffee Shop Mobile UI-UX Design.png)
+![App UI](/)
+![alt text](https://github.com/dimasokta14/Coffee-Shop-Flutter-App/blob/master/Coffee-Shop_Mobile_UI-UX_Design.png?raw=true)
 
 ## Getting Started
 
