@@ -3,7 +3,7 @@ Coffee Shop App with Flutter
 
 ## Final Result
 ![alt text](https://github.com/dimasokta14/Coffee-Shop-Flutter-App/blob/master/Coffee-Shop_Mobile_UI-UX_Design.png?raw=true)
-![Animation Screen](https://github.com/dimasokta14/Coffee-Shop-Flutter-App/blob/master/Coffee-Shop_01.gif?raw=true)
+![Animation Screen](https://github.com/dimasokta14/Coffee-Shop-Flutter-App/blob/master/Coffee-Shop_01.mp4?raw=true)
 
 
 ## Getting Started
